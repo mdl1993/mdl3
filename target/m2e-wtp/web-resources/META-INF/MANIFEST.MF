@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: utente
+Build-Jdk: 13.0.2
+Implementation-Title: CrmSpringData
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: it.sincrono
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/CrmSpringData
+Created-By: Maven Integration for Eclipse
+
